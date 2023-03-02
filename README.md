@@ -1,9 +1,9 @@
 
-### 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcNotAutomaton&layout=compact) 
-
+### Hi  👋
+  
  ![AcNotAutomaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AcNotAutomaton&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcNotAutomaton&layout=compact) 
+  
 ![](https://raw.githubusercontent.com/AcNotAutomaton/AcNotAutomaton/main/assets/github-contribution-grid-snake.svg)
 <!-- ![](https://raw.githubusercontent.com/AcNotAutomaton/AcNotAutomaton/main/assets/github-contribution-grid-snake.gif) -->
 
