@@ -5,7 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcNotAutomaton&layout=compact) 
   
 ![](https://raw.githubusercontent.com/AcNotAutomaton/AcNotAutomaton/main/assets/github-contribution-grid-snake.svg)
-<!-- ![](https://raw.githubusercontent.com/AcNotAutomaton/AcNotAutomaton/main/assets/github-contribution-grid-snake.gif) -->
 
 **Hi  👋  你好，我是WA_自动机**
 
